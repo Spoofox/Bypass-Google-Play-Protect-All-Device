@@ -1,5 +1,5 @@
 # Bypass-Google-Play-Protect-All-Device
-Bypass Google Play Protect All Device.
+Bypass Google Play Protect All Device..
 绕过 Google Play 保护所有设备..
 
 
